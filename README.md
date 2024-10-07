@@ -1,2 +1,2 @@
 # convertidorMonedas
-Programa en Java aplicando API 
+Programa EN CONSTRUCCIÓN: Java aplicando API 
