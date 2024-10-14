@@ -23,11 +23,11 @@ Los siguientes son los pasos a seguir por el usuario.
 ![image](https://github.com/user-attachments/assets/842c8f31-334a-4528-9c46-d6a5a3d4a73c)
 
 4. El programa solicita el tipo de conversión ( si es de dolar a moneda o V.V.)
-![image](https://github.com/user-attachments/assets/3bb068c6-f683-4d6e-92d1-380c9baaf2e7)
-
-5. El programa entrega el resultado de la conversión  y solicita otra moneda o "salir"
 ![image](https://github.com/user-attachments/assets/98cb1401-20d3-4b56-bc0a-7ef5d2aa5353)
 
+5. El programa entrega el resultado de la conversión  y solicita otra moneda o "salir"
+![image](https://github.com/user-attachments/assets/3bb068c6-f683-4d6e-92d1-380c9baaf2e7)
+
 6. Cuando se sale, el programa genera el archivo trazaMonedas.json, el cual tiene la siguiente estructura:
-    ![image](https://github.com/user-attachments/assets/8953d61c-6136-437c-96f3-2cf8413aa981)
+![image](https://github.com/user-attachments/assets/8953d61c-6136-437c-96f3-2cf8413aa981)
 
