@@ -17,6 +17,7 @@ Los siguientes son los pasos a seguir por el usuario.
 ![image](https://github.com/rumanag/convertidorMonedas/blob/main/tools/codigosDivisas.png)
 
     El programa pide el código de la moneda del país:
+![image](https://github.com/rumanag/convertidorMonedas/blob/main/tools/1%20definirMoneda.png?raw=true)
 
     
 
