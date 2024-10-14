@@ -1,0 +1,16 @@
+[
+  {
+    "FechaHoy": "2024-10-14",
+    "DeMoneda": "USD",
+    "AMoneda": "COP",
+    "TasaDeCambioBase": 4198.9862,
+    "ValorConvertido": 4198.9862
+  },
+  {
+    "FechaHoy": "2024-10-14",
+    "DeMoneda": "COP",
+    "AMoneda": "USD",
+    "TasaDeCambioBase": 4198.9862,
+    "ValorConvertido": 1.0
+  }
+]
