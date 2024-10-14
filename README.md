@@ -14,7 +14,7 @@ El objetivo del programa es que, dado el código de la divisa y el valor a conve
 Los siguientes son los pasos a seguir por el usuario.
 1.  El programa solicita que se ingrese el código de la moneda que se va a cruzar frente al dolar, para lo cual puede hacer uso de la siguiente tabla:
 
-https://github.com/rumanag/convertidorMonedas/blob/main/tools/CodigosDivisas.xlsx
+
 
 
 
