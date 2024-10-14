@@ -25,3 +25,4 @@ Los siguientes son los pasos a seguir por el usuario.
 
 ![image](https://github.com/user-attachments/assets/3bb068c6-f683-4d6e-92d1-380c9baaf2e7)
 
+![image](https://github.com/user-attachments/assets/98cb1401-20d3-4b56-bc0a-7ef5d2aa5353)
