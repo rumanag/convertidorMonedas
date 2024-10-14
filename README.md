@@ -12,7 +12,7 @@ En nuestro caso, creemos que hemos aprendido algunas bases de OOP y que el resul
 El objetivo del programa es que, dado el código de la divisa y el valor a convertir, el sistema genere la conversión en base a la moneda escogida por el usuario, con base al dolar. Puede convertir del dolar a la moneda y viceversa. Como resultado, el programa guarda las diferentes conversaciones que ha tenido con el sistema, en un el archivo TrazaMonedas.json, para su posterior uso en analítica y datos y trazabilidad.
 
 Los siguientes son los pasos a seguir por el usuario.
-1.  El programa solicita que se ingrese el código de la moneda que se va a cruzar frente al dolar, para lo cual puede hacer uso de la siguiente tabla:
+1.  La siguiente tabla presenta las divisas del mundo,de acuerdo a cada pais. De aqui, el usuario puede tomar los códigos de moneda que el programa le pedirá a continuación:
 
 ![image](https://github.com/rumanag/convertidorMonedas/blob/main/tools/codigosDivisas.png)
 
@@ -29,4 +29,5 @@ Los siguientes son los pasos a seguir por el usuario.
 ![image](https://github.com/user-attachments/assets/98cb1401-20d3-4b56-bc0a-7ef5d2aa5353)
 
 6. Cuando se sale, el programa genera el archivo trazaMonedas.json, el cual tiene la siguiente estructura:
-   
+    ![image](https://github.com/user-attachments/assets/8953d61c-6136-437c-96f3-2cf8413aa981)
+
