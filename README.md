@@ -16,13 +16,17 @@ Los siguientes son los pasos a seguir por el usuario.
 
 ![image](https://github.com/rumanag/convertidorMonedas/blob/main/tools/codigosDivisas.png)
 
-    El programa pide el código de la moneda del país:
+2. El programa pide el código de la moneda del país:
 ![image](https://github.com/rumanag/convertidorMonedas/blob/main/tools/1%20definirMoneda.png?raw=true)
 
-    
+3. Con base en el código de la moneda, el programa devuelve la tasa de cambio con relacón al dolar.
 ![image](https://github.com/user-attachments/assets/842c8f31-334a-4528-9c46-d6a5a3d4a73c)
 
-
+4. El programa solicita el tipo de conversión ( si es de dolar a moneda o V.V.)
 ![image](https://github.com/user-attachments/assets/3bb068c6-f683-4d6e-92d1-380c9baaf2e7)
 
+5. El programa entrega el resultado de la conversión  y solicita otra moneda o "salir"
 ![image](https://github.com/user-attachments/assets/98cb1401-20d3-4b56-bc0a-7ef5d2aa5353)
+
+6. Cuando se sale, el programa genera el archivo trazaMonedas.json, el cual tiene la siguiente estructura:
+   
