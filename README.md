@@ -23,4 +23,5 @@ Los siguientes son los pasos a seguir por el usuario.
 ![image](https://github.com/user-attachments/assets/842c8f31-334a-4528-9c46-d6a5a3d4a73c)
 
 
+![image](https://github.com/user-attachments/assets/3bb068c6-f683-4d6e-92d1-380c9baaf2e7)
 
