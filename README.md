@@ -1,2 +1,4 @@
-# convertidorMonedas
-Programa EN CONSTRUCCIÓN: Java aplicando API 
+**PROGRAMA CONVERTIDOR DE DIVISAS (MONEDAS)**
+# INTRODUCCCION
+
+
