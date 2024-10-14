@@ -20,6 +20,7 @@ Los siguientes son los pasos a seguir por el usuario.
 ![image](https://github.com/rumanag/convertidorMonedas/blob/main/tools/1%20definirMoneda.png?raw=true)
 
     
+![image](https://github.com/user-attachments/assets/842c8f31-334a-4528-9c46-d6a5a3d4a73c)
 
 
 
