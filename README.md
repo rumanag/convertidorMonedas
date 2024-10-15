@@ -38,11 +38,13 @@ Los siguientes son los pasos a seguir por el usuario.
 
     - Principal:
      * Como columna vertebral, contiene la parte estructural del programa, de acuerdo con el siguiente esquema:
+![image](https://github.com/user-attachments/assets/56bf3e62-3c7f-4d94-be3b-e7e86d666b08)
 
 
 2. ESTRUCTURA DEL PROYECTO:
 
    En la siguiente imagen se presenta la estructura del proyecto en Intelllij IDEA.
+
 
    
   
